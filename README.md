@@ -17,5 +17,4 @@
 
 ## **Credit:**
 The source of the datasets are from Kaggle.
-Check out the dataset by just one click away 😇 :  
-(https://www.kaggle.com/competitions/data-science-bowl-2018/overview)
+Check out the dataset by just one click away 😇 :   [Datasets](https://www.kaggle.com/competitions/data-science-bowl-2018/overview)
